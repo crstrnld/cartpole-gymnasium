@@ -1,2 +1,0 @@
-# cartpole-gymnasium
-reinformance learning
