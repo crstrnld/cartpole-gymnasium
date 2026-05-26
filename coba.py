@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from stable_baselines3 import PPO
 
-# pilih game juga render
+# pilih game 
 env = gym.make("CartPole-v1")
 
 # pilih agent sesuai import
